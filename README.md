@@ -2,7 +2,7 @@
 
 *seperates different phoneme combinations to make setting values and general otoing easier*
 
-so far made entirely by my friend psychic digit.
+Made by PsychicDigit & NobodyP
 
 this program is still a work-in-progress, you may encounter bugs when using the program
 
